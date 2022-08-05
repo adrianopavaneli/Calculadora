@@ -15,4 +15,4 @@ Criação de uma calculadora simples, com operações aritméticas básicas.
 
 
 
-<img src="https://github.com/adrianopavaneli/Calculadora/blob/main/imagens/calculadora.jpg" alt="drawing" width="150"/><img 
+<img src="https://github.com/adrianopavaneli/Calculadora/blob/main/imagens/calculadora.jpg" alt="drawing" width="150"/>
